@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Headphone",
+        "quantity": 10,
+        "price": 250
+    },
+    {
+        "title": "Earphnoe",
+        "quantity": 15,
+        "price": 200
+    },
+    {
+        "title": "Earbuds",
+        "quantity": 7,
+        "price": 300
+    },
+    {
+        "title": "Shampoo",
+        "quantity": 50,
+        "price": 5
+    },
+    {
+        "title": "Lux",
+        "quantity": 45,
+        "price": 40
+    }
+]
