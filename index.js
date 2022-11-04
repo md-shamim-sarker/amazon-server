@@ -66,6 +66,12 @@ async function run() {
             res.send(result);
         });
 
+        // Delete All Data (DELETE Method)
+        app.delete('/products', async (req, res) => {
+            const query = {};
+            const result = await collection.deleteMany(query);
+            res.send(result);
+        });
 
     } catch {
         console.log("An error has occured!!!");
